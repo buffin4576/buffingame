@@ -1,0 +1,8 @@
+{
+  "name" : "buffingame",
+  "version" : "0.0.1",
+  "description" : "Buffin game site",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
