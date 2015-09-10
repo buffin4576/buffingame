@@ -7,7 +7,19 @@
 }
 
 .likeDislike img{
-    width: 18px;
+    position: relative;
+    //width: 18px;
     height: 18px;
+    image-resolution: snap;
     margin-right: 5px;
+}
+
+.btnValid{
+
+}
+
+.btnInvalid{
+    background-color: darkgray !important;
+    border-color: darkgray !important;
+    cursor: default !important;
 }
