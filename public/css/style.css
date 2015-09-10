@@ -6,12 +6,9 @@
     border-color: green !important;
 }
 
-.likeDislike img{
-    position: relative;
-    //width: 18px;
-    height: 18px;
-    image-resolution: snap;
-    margin-right: 5px;
+.likeDislike span{
+    //position: relative;
+    //margin-right: 5px;
 }
 
 .btnValid{
